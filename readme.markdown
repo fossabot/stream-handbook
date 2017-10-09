@@ -5,6 +5,7 @@ programs with [streams](http://nodejs.org/docs/latest/api/stream.html).
 You also could read a **[chinese edition](https://github.com/jabez128/stream-handbook)**
 
 [![cc-by-3.0](http://i.creativecommons.org/l/by/3.0/80x15.png)](http://creativecommons.org/licenses/by/3.0/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fstream-handbook.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fstream-handbook?ref=badge_shield)
 
 # node packaged manuscript
 
@@ -1466,3 +1467,7 @@ then the page updates automatically with the realtime updates, hooray!
 
 We're now using exactly the same rendering logic on both the client and the
 server to serve up SEO-friendly, indexable realtime content. Hooray!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fstream-handbook.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fstream-handbook?ref=badge_large)
